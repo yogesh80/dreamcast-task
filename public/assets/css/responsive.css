@@ -1,0 +1,86 @@
+/*
+Project Name: Zina Care
+CSS Author: Manpreet singh
+Author Designation: Web Designer
+Framework Used: Bootstrap
+Organization: Code Brew Labs
+*/
+/*  @media (min-width: 3600px){
+.container{max-width: 2600px;}
+}
+
+
+ @media (min-width: 2200px){
+.container{max-width: 2000px;}
+} */
+
+@media (min-width: 1600px){
+.container-fluid {max-width: 1685px;}
+}	
+		
+/*    @media (min-width: 1600px){
+.container-fluid {max-width: 1685px;}
+} 
+ */
+ 
+@media (max-width:992px) { 
+ .sidebar {width: 22%;}
+.logo-cont {width: calc(100% - 22%);}
+ .logo-width {width: 22%;}
+ .logo-cont ul li {padding: 10px 20px;}
+ 
+ 
+@media (max-width:768px) {
+  .download-app-block a, .main-bannar a {
+    margin-right: 0px!important;
+    margin-bottom: 10px;
+    display: inline-block;}
+	
+	.get-tested {padding: 50px 0px;}
+	.white-all {padding: 5px 15px;}
+	.tasted-head {font-size: 25px;line-height: 33px;padding-bottom: 21px;}
+	.banner-sub-head {font-size: 23px;line-height: 35px;}
+	.second-outer {margin: 13px 0px;min-height: auto;}
+	.first-outer{margin: 20px 0px 10px 0px;min-height: auto;}
+	footer h5 {margin-top: 25px;}
+	.banner-head {font-size: 30px;line-height: 28px;}
+	.landing-top-nav{align-items:start !important;}
+	.landing-top-nav li a {padding: 10px 10px;display: block;}
+	.login-btn2{display: block;margin: 10px 0px;}
+	.fixed-top {position: absolute;padding: 0px 0px;}
+	.logo-width {width: 100%;padding: 0px 15px;}
+	.logo-width a{text-align:left;}
+	.logo-cont {width:100%;padding: 0px;}
+	.logo-cont li.border-right{border:0px !important;}
+	.logo-cont ul li {padding: 10px 5px;}
+	.logo-cont ul li a {font-size:14px;}
+	.btn-active {width: auto;padding: 5px 10px;font-size: 13px;}
+	.logo-cont ul{justify-content: center !important;}
+	.profile-size {height: 35px;width: 35px;}
+	.sidebar {    width: 77%;position: absolute;z-index: 99;box-shadow: 0px 13px 22px rgb(0 0 0 / 20%);left: -100%;opacity: 0;transition:all .5s;}
+	.side-cont {width: calc(100% - 0%);}
+	.bar-icon{display:block;}
+	/* .sidebar {width: 100%;} */
+
+	 .logo-width {width: 100%;}
+	 .user-box {margin: 0;}
+	 .bg-grey-2:after{display:none;}
+	 .bg-grey-2 {height: auto; padding: 30px 30px 30px 30px;}
+	.vid-sec {height: auto;}
+	.margn-video {margin-top:0px;}
+	.tasted-head2 {padding-bottom: 0px;padding: 0px 10px;}
+	.get-tested33 {padding: 00px 0px;}
+	.zincare-session { padding-bottom:5px;text-align: center;}
+	.social-footer ul{justify-content: center !important;}
+	.test-kit-head {font-size: 27px;}
+	.get-tested3 {padding: 25px 0px;}
+	
+	
+	
+	
+	
+	
+	
+}
+	
+	
